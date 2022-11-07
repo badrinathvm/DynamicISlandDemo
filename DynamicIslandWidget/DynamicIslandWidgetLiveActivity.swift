@@ -14,7 +14,8 @@ struct DynamicIslandWidgetLiveActivity: Widget {
         ActivityConfiguration(for: DynamicIslandWidgetAttributes.self) { context in
             // Lock screen/banner UI goes here
             VStack {
-                Text("Hello")
+                Text(context.attributes.endDate, style: .timer)
+                  .padding()
             }
             .activityBackgroundTint(Color.cyan)
             .activitySystemActionForegroundColor(Color.black)
@@ -36,9 +37,9 @@ struct DynamicIslandWidgetLiveActivity: Widget {
             } compactLeading: {
                 Text("L")
             } compactTrailing: {
-                Text("T")
+                Image(systemName: "timer")
             } minimal: {
-                Text("Min")
+                Image(systemName: "timer")
             }
             .widgetURL(URL(string: "http://www.apple.com"))
             .keylineTint(Color.red)

@@ -130,5 +130,53 @@
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D1934F0-435F-4B45-BC77-265FD4387E8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicIslandDemo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "startActivity()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D1934F0-435F-4B45-BC77-265FD4387E8A - 988ba78a06ada3d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in DynamicIslandDemo.ContentView.startActivity() -&gt; ()"
+                  moduleName = "DynamicIslandDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvenkatnara/Documents/projects/examples/DynamicIslandDemo/DynamicIslandDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "3D1934F0-435F-4B45-BC77-265FD4387E8A - 988ba78a06ada3d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in DynamicIslandDemo.ContentView.startActivity() -&gt; ()"
+                  moduleName = "DynamicIslandDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvenkatnara/Documents/projects/examples/DynamicIslandDemo/DynamicIslandDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
