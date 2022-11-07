@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "116E5A27-9E75-469A-A593-AAA0F02BCEE3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32B84D2A-CCEF-4C71-9A94-1FDD9BA647C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicIslandDemo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "startActivity()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32B84D2A-CCEF-4C71-9A94-1FDD9BA647C2 - aef744836a883f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in DynamicIslandDemo.ContentView.startActivity() -&gt; ()"
+                  moduleName = "DynamicIslandDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvenkatnara/Documents/projects/examples/DynamicIslandDemo/DynamicIslandDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "32B84D2A-CCEF-4C71-9A94-1FDD9BA647C2 - b657ebeedc2dcf17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in DynamicIslandDemo.ContentView.startActivity() -&gt; ()"
+                  moduleName = "DynamicIslandDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvenkatnara/Documents/projects/examples/DynamicIslandDemo/DynamicIslandDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "32B84D2A-CCEF-4C71-9A94-1FDD9BA647C2 - 988ba78a06ada127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in DynamicIslandDemo.ContentView.startActivity() -&gt; ()"
+                  moduleName = "DynamicIslandDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvenkatnara/Documents/projects/examples/DynamicIslandDemo/DynamicIslandDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "32B84D2A-CCEF-4C71-9A94-1FDD9BA647C2 - a9399fd14044f14b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () throws -&gt; () in closure #1 @Sendable () async -&gt; () in DynamicIslandDemo.ContentView.startActivity() -&gt; ()"
+                  moduleName = "DynamicIslandDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvenkatnara/Documents/projects/examples/DynamicIslandDemo/DynamicIslandDemo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FA08C31-A952-4FA2-8805-C147043A6549"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicIslandDemo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "startActivity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C03B89C8-0473-4F85-AB76-7E4132963C20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicIslandDemo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "startActivity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1E43458-C632-4F7E-B8CA-4EB928AAE36A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicIslandDemo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
